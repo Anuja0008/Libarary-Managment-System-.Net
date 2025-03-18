@@ -149,7 +149,7 @@
           "expiryDate": {
             "type": "string",
             "format": "date-time",
-            "nullable": true
+            "readOnly": true
           },
           "password": {
             "minLength": 1,
@@ -160,9 +160,9 @@
       },
       "MembershipType": {
         "enum": [
-          0,
           1,
-          2
+          2,
+          3
         ],
         "type": "integer",
         "format": "int32"

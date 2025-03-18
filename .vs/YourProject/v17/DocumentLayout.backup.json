@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Library Management System\\YourProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C502F4D5-9F4A-4421-9196-286781F2DF26}|YourProject.csproj|d:\\library management system\\yourproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,45 +50,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\Library Management System\\YourProject\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Models\\Member.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Models\\Member.cs",
-              "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA2wC0AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Models\\Member.cs*",
+              "RelativeToolTip": "Models\\Member.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T20:25:33.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Library Management System\\YourProject\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAgAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T19:02:00.634Z",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:00:14.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:45:27.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T19:01:27.915Z",
+              "WhenOpened": "2025-03-15T20:46:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:01:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:58:40.388Z",
               "EditorCaption": ""
             },
             {
@@ -107,79 +146,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Library Management System\\YourProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T19:01:10.693Z",
+              "WhenOpened": "2025-03-15T19:01:27.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Services\\JwtService.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Services\\JwtService.cs",
-              "RelativeToolTip": "Services\\JwtService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T19:00:14.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Library Management System\\YourProject\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "D:\\Library Management System\\YourProject\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T18:55:54.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T20:46:01.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Repositories\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\MemberRepository.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Repositories\\MemberRepository.cs",
-              "RelativeToolTip": "Repositories\\MemberRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T20:45:27.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "D:\\Library Management System\\YourProject\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\AuthRepository.cs",
-              "ToolTip": "D:\\Library Management System\\YourProject\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T18:58:40.388Z",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Library Management System\\YourProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Library Management System\\YourProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T19:02:00.634Z",
               "EditorCaption": ""
             }
           ]

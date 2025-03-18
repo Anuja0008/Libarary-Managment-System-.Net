@@ -4,7 +4,7 @@ using YourProject.Repositories;
 
 [Route("api/[controller]")]
 [ApiController]
-public class MemberController : ControllerBase
+public class MemberController : ControllerBase 
 {
     private readonly MemberRepository _memberRepository;
 
